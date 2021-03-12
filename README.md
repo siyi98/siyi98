@@ -2,6 +2,7 @@
 
 <!--
 **siyi98/siyi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![chenshuai's github stats](https://github-readme-stats.vercel.app/api?username=chenshuai2144)](https://github.com/chenshuai2144)
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Alibaba
+- 💬 Wechat: siyi_zsj
+- ⚡ My hobbies: Hiphop、Rap、Poppin
