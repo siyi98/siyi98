@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Alibaba
-- 💬 Wechat: siyi_zsj
-- ⚡ My hobbies: Hiphop、Rap、Poppin
+- 💬 my wechat: siyi_zsj
+- ⚡ my hobbies: Hiphop、Rap、Poppin
