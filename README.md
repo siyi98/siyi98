@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![siyi98's github stats](https://github-readme-stats.vercel.app/api?username=siyi98)](https://github.com/siyi98)
+[![siyi98's github stats](https://github-readme-stats.vercel.app/api?username=siyi98&theme=tokyonight&include_all_commits=true&show_icons=true)](https://github.com/siyi98)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyi98&layout=compact)](https://github.com/siyi98)
 
 
 - 🔭 I’m currently working on Alibaba
