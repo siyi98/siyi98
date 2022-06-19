@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi guys 👋
 - 🔭 I’m currently working on Alibaba
-- 💬 Wechat: wow_ky
+- 💬 WeChat: wow_ky
 - 📮 Email: zhusijia1998@gmail.com
 
 ### Others
