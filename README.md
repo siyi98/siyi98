@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 - 🤔 Maintainer of [UmiJS](https://github.com/umijs)
 
 [![siyi98's github stats](https://github-readme-stats.vercel.app/api?username=siyi98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff00&include_all_commits=true&hide=stars)](https://github.com/siyi98)
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyi98" /> </div>
+<!--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siyi98" />
+-->
 
 ## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
