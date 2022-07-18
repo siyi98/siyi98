@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![siyi98's github stats](https://github-readme-stats.vercel.app/api?username=siyi98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff00&include_all_commits=true&hide=stars)](https://github.com/siyi98)
 
+![github](https://activity-graph.herokuapp.com/graph?username=siyi98&theme=dracula)
+
 ## Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +39,6 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ## Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -46,8 +47,6 @@ Here are some ideas to get you started:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![SWC](https://img.shields.io/badge/SWC-%23008080.svg?style=for-the-badge&logo=swc&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
-
 
 ## Analysis
 <img src="https://visitor-badge.glitch.me/badge?page_id=siyi98" />
