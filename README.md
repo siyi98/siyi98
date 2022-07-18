@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 WeChat: wow_ky
 - 📮 Email: zhusijia1998@gmail.com
 
-## Others
+## My Github
 - 🤔 Maintainer of [XRender](https://github.com/alibaba/x-render)
 - 🤔 Maintainer of [UmiJS](https://github.com/umijs)
 
