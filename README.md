@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## My Github
 - 🤔 Maintainer of [XRender](https://github.com/alibaba/x-render)
-- 🤔 Maintainer of [UmiJS](https://github.com/umijs)
+- Maintainer of [UmiJS](https://github.com/umijs)
 
 [![siyi98's github stats](https://github-readme-stats.vercel.app/api?username=siyi98&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffff00&include_all_commits=true&hide=stars)](https://github.com/siyi98)
 <!--
